@@ -7,3 +7,5 @@ WASD para moverse
 Objetivo: conseguir la mayor cantidad de ratones posibles
 
 Reto: los ratones van a ir dejando trampas cuando mueren asi que si las tocas pierdes
+
+por ultimo les recomiendo que lo jueguen en pantalla completa para que tengan mejor experiencia
