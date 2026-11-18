@@ -15,7 +15,7 @@ private IEnumerator spawnEnemies(float interval, GameObject enemyPrefab, Transfo
 {
     yield return new WaitForSeconds(interval);
     Instantiate(enemyPrefab, spawnPoint.position, Quaternion.identity);
-    spawnInterval = spawnInterval * 0.9f; // Decrease the interval by 10%
+    spawnInterval = spawnInterval * 0.9f;
     StartCoroutine(spawnEnemies(interval, enemyPrefab, spawnPoint));
 }
 }
